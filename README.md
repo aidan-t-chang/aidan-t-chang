@@ -2,7 +2,7 @@
 
 Computer Science, Data Structures and Algorithms, Software Development
 
-Currently interested in Machine Learning and Fullstack Development, but I'm always on the lookout to learn.  
+Currently interested in machine learning and cybersecurity, but I'm always on the lookout to learn.  
 
 [changaidan2@gmail.com](changaidan2@gmail.com)  
 [linkedin.com/in/aidan-t-chang](https://www.linkedin.com/in/aidan-t-chang/)
