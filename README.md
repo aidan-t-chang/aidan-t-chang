@@ -1,8 +1,7 @@
 # Hi, I'm [Aidan Chang](https://aidan-t-chang.github.io)
 
-Computer Science, Data Structures and Algorithms, Software Development
-
-Currently interested in machine learning and cybersecurity, but I'm always on the lookout to learn.  
+Cybersecurity, Machine Learning, Software Engineering
+Even though my interests might be more specific, I'm always on the lookout to learn everything I can about computer science!
 
 [changaidan2@gmail.com](changaidan2@gmail.com)  
 [linkedin.com/in/aidan-t-chang](https://www.linkedin.com/in/aidan-t-chang/)
